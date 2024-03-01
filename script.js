@@ -1,4 +1,4 @@
-let taxiFareApiUrl = 'https://cparran.github.io/taxi-fare-interface/'; // replace with your API endpoint
+let taxiFareApiUrl = 'https://taxifare.lewagon.com/index.html'; // replace with your API endpoint
 const centralCoordinates = [-74.00597, 40.71427]; // starting position [lng, lat]
 
 if (window.location.href.includes('https://taxifare.lewagon.com')) {
